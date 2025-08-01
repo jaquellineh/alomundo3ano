@@ -17,3 +17,5 @@ let aluno1={
     anoLetivo:'Cursando onsino médio',
     materiasFavoritas;['Biologia', 'Educação Física', 'Matemática 2']
 }
+
+Usamos console.log() para imprimir as propriedades do objeto. A ultima linha imprime o segundo item da lista materiasFavoritas (indice 1).
