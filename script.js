@@ -10,3 +10,10 @@ const lista = document.querySelector('#lista')
 lista.textContent=linguagens[0];
 lista.textContent=linguagens[1];
 lista.textContent=linguagens[2];
+
+let aluno1={
+    nome:'Jaqueline',
+    idade:18,
+    anoLetivo:'Cursando onsino médio',
+    materiasFavoritas;['Biologia', 'Educação Física', 'Matemática 2']
+}
