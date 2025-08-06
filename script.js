@@ -15,7 +15,7 @@ let aluno1={
     nome:'Jaqueline',
     idade:18,
     anoLetivo:'Cursando onsino médio',
-    materiasFavoritas;['Biologia', 'Educação Física', 'Matemática 2']
+    materiasFavoritas;['Biologia', 'Educação Física', 'Matemática II']
 }
 
 Usamos console.log() para imprimir as propriedades do objeto. A ultima linha imprime o segundo item da lista materiasFavoritas (indice 1).
