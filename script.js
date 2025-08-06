@@ -18,4 +18,12 @@ let aluno1={
     materiasFavoritas;['Biologia', 'Educação Física', 'Matemática II']
 }
 
-Usamos console.log() para imprimir as propriedades do objeto. A ultima linha imprime o segundo item da lista materiasFavoritas (indice 1).
+console.log(alunos1.nome);
+console.log(aluno1.idade);
+console.log(aluno1.materiasFavoritas);
+console.log(aluno1.materiasFavoritasri[1]);
+
+const objeto = document.querySelector('#aluno');
+objeto.textContent = aluno1.nome;
+objeto.textContent = aluno1.idade;
+objeto.textContent = aluno1.materiasFavoritas[1];
